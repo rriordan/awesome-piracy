@@ -3,7 +3,7 @@
 ## Preamble
 This list is based on the amazing work https://github.com/Igglybuff/awesome-piracy. However, that repo has a lot of obsolete links, so I forked it to update the links faster.
 
-Please ensure that you use a blocker like [uBlock Origin](https://github.com/gorhill/uBlock) with [recommended settings](https://a.imagem.app/on42hV.png) to access any of the websites listed here, otherwise, you will have a bad time.
+Please ensure that you use a blocker like [uBlock Origin](https://github.com/gorhill/uBlock) with [recommended settings]() to access any of the websites listed here, otherwise, you will have a bad time.
 
 If you come across dead or obsolete links, please fix them by [making a pull request](https://github.com/Shakil-Shahadat/awesome-piracy/edit/main/Readme.md) or report them by [creating an issue](https://github.com/Shakil-Shahadat/awesome-piracy/issues).
 
@@ -1827,7 +1827,7 @@ premium services
 - [How to use eMule in 2018](https://archive.is/j1T6o) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 - [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
-- [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is. There are also [PNG](https://weboas.is/media/host.png), [PSD](https://weboas.is/media/host.psd), and [TXT](https://weboas.is/media/host.txt) versions
+- [How To Host "Questionable" Websites v5.15](https://web.archive.org/web/20220109231436/https://weboas.is/media/host.pdf) PDF from weboas.is (this PDF link is the most recent archive version of the now defunct website). There are also [PNG](https://web.archive.org/web/20211118094041/https://weboa), [PSD](https://web.archive.org/web/20220107215447/https://weboas.is/media/host.psd), and [TXT](https://web.archive.org/web/20201112012332/https://weboas.is/media/host.txt) versions
 - [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
 - [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy
 - [/s/piracy](https://saidit.net/s/piracy) Saidit forum for Piracy - unofficially the backup forum for /r/Piracy if/when it is banned by the Reddit moderators.
